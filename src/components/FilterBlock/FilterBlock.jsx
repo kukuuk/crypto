@@ -19,7 +19,7 @@ const FilterBlock = ({coins, setCoins}) => {
                 value={value} 
                 className='input' 
                 type='text' 
-                placeholder='Bitcoin' 
+                placeholder='Search' 
             />
         </div>
     )

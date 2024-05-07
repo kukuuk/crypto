@@ -12,4 +12,12 @@
 .card-block {
     display: flex;
     justify-content: space-between;
+    font-weight: bolder;
+}
+
+.card-btn {
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
 }
